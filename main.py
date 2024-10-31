@@ -1,3 +1,3 @@
 import datetime
-print(datetime.datetime.now())
+print(f"\nthe time is {datetime.datetime.now()}\n")
 
